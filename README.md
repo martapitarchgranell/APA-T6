@@ -253,6 +253,7 @@ funcionamiento de su función.
   uso de los estándares marcados por PEP-ocho.
 
 ##### Ejecución de los tests unitarios de `alumno.py`
+<img width="1778" height="730" alt="image" src="https://github.com/user-attachments/assets/72b05bfb-2b58-450a-afe8-23b91dfc1c73" />
 
 Inserte a continuación una captura de pantalla que muestre el resultado de ejecutar el
 fichero `alumno.py` con la opción *verbosa*, de manera que se muestre el
